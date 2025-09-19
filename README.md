@@ -37,14 +37,7 @@ This web application displays lists of board games and their reviews. While anyo
 - Deployed the application on AWS EC2
 - JUnit test framework for unit testing
 - Spring MVC best practices to segregate views, controllers, and database packages
-- JDBC for database connectivity and interaction
-- CRUD (Create, Read, Update, Delete) operations for managing data in the database
-- Schema.sql file to customize the schema and input initial data
-- Thymeleaf Fragments to reduce redundancy of repeating HTML elements (head, footer, navigation)
-
-#####How to Run
-
-1. Clone the repository
+- 
 2. Open the project in your IDE of choice
 3. Run the application
 4. To use initial user data, use the following credentials.
